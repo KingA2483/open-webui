@@ -1,6 +1,6 @@
 # Open WebUI (Formerly Ollama WebUI) 👋
 
-![GitHub stars](https://img.shields.io/github/stars/open-webui/open-webui?style=social)
+![GitHub stars][def]
 ![GitHub forks](https://img.shields.io/github/forks/open-webui/open-webui?style=social)
 ![GitHub watchers](https://img.shields.io/github/watchers/open-webui/open-webui?style=social)
 ![GitHub repo size](https://img.shields.io/github/repo-size/open-webui/open-webui)
@@ -206,3 +206,6 @@ If you have any questions, suggestions, or need assistance, please open an issue
 ---
 
 Created by [Timothy J. Baek](https://github.com/tjbck) - Let's make Open WebUI even more amazing together! 💪
+
+
+[def]: https://img.shields.io/github/stars/open-webui/open-webui?style=social

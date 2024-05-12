@@ -1,5 +1,5 @@
-{
-	"extends": "../tsconfig.json",
+{"typeAcquisition": {"enable": true},
+	"extends": "./tsconfig.json",
 	"compilerOptions": {
 		"inlineSourceMap": true,
 		"sourceMap": false
