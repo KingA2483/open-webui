@@ -33,7 +33,7 @@ ollama:
     containerPort: 11434
   gpu:
     # -- Enable additional ENV values to help Ollama discover GPU usage
-    enabled: false
+    enabled: true
 
 webui:
   annotations: {}
@@ -45,7 +45,7 @@ webui:
     pullPolicy: Always
   resources: {}
   ingress:
-    enabled: false
+    enabled: true
     class: ""
     # -- Use appropriate annotations for your Ingress controller, e.g., for NGINX:
     # nginx.ingress.kubernetes.io/rewrite-target: /
